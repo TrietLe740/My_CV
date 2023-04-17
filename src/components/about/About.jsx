@@ -37,15 +37,16 @@ const About = () => {
               <li>GPA: 3.04/4.0</li>
               <li>TOEIC: 400</li>
               <li>
-                - I am a self-taught front-end web developer seeking an
-                internship. I hope to learn from your experience. In school, I
-                and my friends some website project for our subject.
+                - I'm a self-taught front-end web developer looking for an
+                internship. I want to take something away from your experience.
+                I create various website projects for our class at school with
+                my friends.
               </li>
             </ul>
           </p>
           <p>
             <ul>
-              *STUDENT UNION OF DONG THAP PROVINCE (5/2020 - Now)
+              * STUDENT UNION OF DONG THAP PROVINCE (5/2020 - Now)
               <li>Executive board (10/2020 - 4/2023)</li>
               <li>Media committee member (5/2020 - Now)</li>
               <li>
@@ -53,10 +54,10 @@ const About = () => {
                 graduate. Graphic design is my passion.
               </li>
               <li>
-                - My work in Student Union Of Dong Thap Province is planning and
-                making event organizer, building a communication strategy,
-                design and editing media products on Facebook, Tiktok and
-                Youtube.
+                - My responsibilities at the Student Union of Dong Thap Province
+                include organizing events, designing and editing media products
+                for Facebook, Tiktok, and Youtube, and creating a communication
+                strategy.
               </li>
             </ul>
           </p>
